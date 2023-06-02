@@ -1,7 +1,6 @@
 # Table of contents
 
-* [快速上手](README.md)
-* [连接](lian-jie.md)
+* [连接](README.md)
 * [选择用户文件夹](xuan-ze-yong-hu-wen-jian-jia.md)
 
 ## 代码与数据集
@@ -21,6 +20,7 @@
 
 * [端口服务页面](duan-kou-fu-wu-ye-mian/duan-kou-fu-wu-ye-mian/README.md)
   * [80 动手学深度学习电子网页](duan-kou-fu-wu-ye-mian/duan-kou-fu-wu-ye-mian/80-dong-shou-xue-shen-du-xue-xi-dian-zi-wang-ye.md)
+  * [4000](duan-kou-fu-wu-ye-mian/duan-kou-fu-wu-ye-mian/4000.md)
   * [15732 jupyter 内核基于pytorch](duan-kou-fu-wu-ye-mian/duan-kou-fu-wu-ye-mian/15732-jupyter-nei-he-ji-yu-pytorch.md)
   * [8096 Emby在线影音服务](duan-kou-fu-wu-ye-mian/duan-kou-fu-wu-ye-mian/8096-emby-zai-xian-ying-yin-fu-wu.md)
 

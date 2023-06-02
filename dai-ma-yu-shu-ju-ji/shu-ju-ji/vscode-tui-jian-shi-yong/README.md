@@ -90,6 +90,6 @@ conda env list 结果一致
 
 同理对于需要后台运行的代码可以在vscode调试好 然后在vscode提供的终端中进后台运行
 
+{% hint style="info" %}
 vscode中可以直接使用ctrlcv复制粘贴
-
-[在vscode中默认记住密码（点击）](broken-reference)
+{% endhint %}

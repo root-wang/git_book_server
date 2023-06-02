@@ -2,6 +2,8 @@
 
 在运行时可以在vscode终端 输入nvidia-smi查看当前GPU占用
 
+<figure><img src="../../.gitbook/assets/image_f5k2-rhL_L.png" alt=""><figcaption></figcaption></figure>
+
 ### pytorch
 
 对于pytorch框架提供下面函数来选择GPU
