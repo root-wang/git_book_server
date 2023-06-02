@@ -1,7 +1,3 @@
----
-layout: editorial
----
-
 # 连接
 
 打开windows平台中的cmd(命令提示符) 同时键入下面命令 并回车
