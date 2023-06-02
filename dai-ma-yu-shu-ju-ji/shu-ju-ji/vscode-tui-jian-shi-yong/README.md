@@ -90,6 +90,4 @@ conda env list 结果一致
 
 同理对于需要后台运行的代码可以在vscode调试好 然后在vscode提供的终端中进后台运行
 
-{% hint style="info" %}
-vscode中可以直接使用ctrlcv复制粘贴
-{% endhint %}
+> vscode中可以直接使用ctrlcv复制粘贴
