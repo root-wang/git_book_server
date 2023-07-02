@@ -34,7 +34,7 @@
 
 所有软件都可以通过服务器下载
 
-> scp [yao@10.68.131.253](mailto:yao@10.68.131.253):/mnt/sda1/software/tabby-1.0.189-setup-x64.exe /D:
+> scp [yao@10.68.131.253](mailto:yao@10.68.131.253):/mnt/sda1/software/tabby.exe /D:
 
 重新打开一个命令提示符软件, 在cmd中输入上面的命令可以将tabby的安装包下载至本地目录的D盘符下 在/D:/path使用path可以自定义D盘下的指定目录
 
@@ -44,7 +44,7 @@
 | ------------------------------ | ----------------------------------- | ------------------------ |
 | Xftp-7.0.0119.exe              | python-3.8.9.exe                    |                          |
 | VSCodeUserSetup-x64-1.57.0.exe | python-3.10.8-amd64.exe             |                          |
-| tabby-1.0.189-setup-x64.exe    | Everything-1.4.1.1009.x64-Setup.exe |                          |
+| tabby.exe                      | Everything-1.4.1.1009.x64-Setup.exe |                          |
 
 以tabby使用为例
 
